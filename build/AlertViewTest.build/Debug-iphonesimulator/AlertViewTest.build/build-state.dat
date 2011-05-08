@@ -1,0 +1,294 @@
+TAlertViewTest
+v7
+r0
+t326558710.769336
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/Info.plist AlertViewTest-Info.plist
+cCompileXIB /iPhoneExamples/MyExamples/AlertViewTest/MainWindow.xib
+cCompileXIB /iPhoneExamples/MyExamples/AlertViewTest/AlertViewTestViewController.xib
+cProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch.gch AlertViewTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/AlertViewTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestAppDelegate.o /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestViewController.o /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/CustomAlertView.o /iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest normal i386
+cGenerateDSYMFile /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app.dSYM /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest
+cTouch /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/iPhoneExamples/MyExamples/AlertViewTest/AlertViewTestViewController.xib
+c000000004DC5552D0000000000004970
+t1304778029
+s18800
+
+N/iPhoneExamples/MyExamples/AlertViewTest/AlertViewTest_Prefix.pch
+c000000004DC5459500000000000000C3
+t1304774037
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.h
+c000000004DC6AC72000000000000019D
+t1304865906
+s413
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.m
+c000000004DC6AC6F0000000000000A4D
+t1304865903
+s2637
+i"AlertViewTestAppDelegate.h"
+i"AlertViewTestViewController.h"
+
+N/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.h
+c000000004DC6AC6C00000000000000B9
+t1304865900
+s185
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.m
+c000000004DC6AC67000000000000032A
+t1304865895
+s810
+i"AlertViewTestViewController.h"
+i"CustomAlertView.h"
+
+N/iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.h
+c000000004DC6AC4D0000000000000131
+t1304865869
+s305
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.m
+c000000004DC6AC3C0000000000002279
+t1304865852
+s8825
+i<QuartzCore/QuartzCore.h>
+i"CustomAlertView.h"
+
+N/iPhoneExamples/MyExamples/AlertViewTest/MainWindow.xib
+c000000004DC545950000000000004E71
+t1304774037
+s20081
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTest.LinkFileList
+c000000004DC552170000000000000256
+t1304777239
+s598
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestAppDelegate.o
+t1304865909
+s51240
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestViewController.o
+t1304865909
+s40720
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/CustomAlertView.o
+t1304865909
+s72056
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/main.o
+t1304777246
+s6308
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app
+t1304865910
+s238
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app.dSYM
+t1304865910
+s102
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest
+t1304865910
+s35312
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTestViewController.nib
+t1304778036
+s1511
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/Info.plist
+t1304777239
+s615
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/MainWindow.nib
+t1304777244
+s1135
+
+N/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/PkgInfo
+t1304777239
+s8
+
+N/iPhoneExamples/MyExamples/AlertViewTest/main.m
+c000000004DC545950000000000000176
+t1304774037
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch.gch
+t1304777246
+s15453392
+
+NAlertViewTest-Info.plist
+c000000004DC54595000000000000038D
+t1304774037
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326558709#326558709#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestAppDelegate.o /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326558709.491533
+e326558709.680044
+r1
+xCompileC
+xbuild/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestAppDelegate.o
+x/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.m326558709#326558709#0(0"0(0#0#75"/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.m3347427302089123328#2166"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-generated-files.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-own-target-headers.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-project-headers.hmap -F/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch -c /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestAppDelegate.m -o /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestAppDelegate.o0#
+
+CCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestViewController.o /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326558709.535261
+e326558709.680269
+r1
+xCompileC
+xbuild/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestViewController.o
+x/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.m326558709#326558709#0(0"0(0#0#78"/iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.m8606562432#2172"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-generated-files.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-own-target-headers.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-project-headers.hmap -F/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch -c /iPhoneExamples/MyExamples/AlertViewTest/Classes/AlertViewTestViewController.m -o /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTestViewController.o0#
+
+CCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/CustomAlertView.o /iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326558709.680371
+e326558709.838315
+r1
+xCompileC
+xbuild/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/CustomAlertView.o
+x/iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.m326558709#326558709#0(0"0(0#0#66"/iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.m3347427302089123328#2148"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-generated-files.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-own-target-headers.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-project-headers.hmap -F/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch -c /iPhoneExamples/MyExamples/AlertViewTest/Classes/CustomAlertView.m -o /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/CustomAlertView.o0#
+
+CCompileC build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/AlertViewTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326470046.614021
+e326470046.823383
+r1
+xCompileC
+xbuild/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/main.o
+x/iPhoneExamples/MyExamples/AlertViewTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /iPhoneExamples/MyExamples/AlertViewTest/main.m326470046#326470046#0(0"0(0#0#47"/iPhoneExamples/MyExamples/AlertViewTest/main.m8631270560#2118"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-generated-files.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-own-target-headers.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-project-headers.hmap -F/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch -c /iPhoneExamples/MyExamples/AlertViewTest/main.m -o /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /iPhoneExamples/MyExamples/AlertViewTest/AlertViewTestViewController.xib
+s326470834.273777
+e326470836.252347
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/AlertViewTest/AlertViewTestViewController.xib
+lSLF07#2@42"CompileXIB AlertViewTestViewController.xib326470834#326470836#0(0"0(0#0#72"/iPhoneExamples/MyExamples/AlertViewTest/AlertViewTestViewController.xib8639858432#678"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTestViewController.nib /iPhoneExamples/MyExamples/AlertViewTest/AlertViewTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /iPhoneExamples/MyExamples/AlertViewTest/MainWindow.xib
+s326470039.229281
+e326470044.660268
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/AlertViewTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326470039#326470044#0(0"0(0#0#55"/iPhoneExamples/MyExamples/AlertViewTest/MainWindow.xib8626370880#644"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/MainWindow.nib /iPhoneExamples/MyExamples/AlertViewTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app.dSYM /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest
+s326558710.547744
+e326558710.758082
+r1
+xGenerateDSYMFile
+x/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app.dSYM
+x/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/AlertViewTest.app.dSYM build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest326558710#326558710#0(0"0(0#0#100"/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest8599822016#469"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest -o /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app.dSYM0#
+
+CLd /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest normal i386
+s326558709.838686
+e326558710.547631
+r1
+xLd
+x/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest
+xnormal
+xi386
+lSLF07#2@105"Link /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest326558709#326558710#0(0"0(0#0#0"8606499264#1002"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator -F/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator -filelist /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/Objects-normal/i386/AlertViewTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/AlertViewTest0#
+
+CProcessInfoPlistFile /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/Info.plist AlertViewTest-Info.plist
+s326470039.101402
+e326470039.229173
+r1
+xProcessInfoPlistFile
+x/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/Info.plist
+xAlertViewTest-Info.plist
+lSLF07#2@32"Process AlertViewTest-Info.plist326470039#326470039#0(0"0(0#0#65"/iPhoneExamples/MyExamples/AlertViewTest/AlertViewTest-Info.plist31525648366108776#565"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility AlertViewTest-Info.plist -genpkginfo /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app/Info.plist0#
+
+CProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch.gch AlertViewTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326470044.676666
+e326470046.613852
+r1
+xProcessPCH
+x/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch.gch
+xAlertViewTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile AlertViewTest_Prefix.pch326470044#326470046#0(0"0(0#0#65"/iPhoneExamples/MyExamples/AlertViewTest/AlertViewTest_Prefix.pch6086444924510958592#2002"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-generated-files.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-own-target-headers.hmap -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/AlertViewTest-project-headers.hmap -F/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/AlertViewTest/build/AlertViewTest.build/Debug-iphonesimulator/AlertViewTest.build/DerivedSources -c /iPhoneExamples/MyExamples/AlertViewTest/AlertViewTest_Prefix.pch -o /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlertViewTest_Prefix-exfjxtqxsbqblkewioqsynhoedzj/AlertViewTest_Prefix.pch.gch0#
+
+CTouch /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app
+s326558710.758193
+e326558710.769269
+r1
+xTouch
+x/iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app
+lSLF07#2@92"Touch /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app326558710#326558710#0(0"0(0#0#0"8604458304#350"    cd /iPhoneExamples/MyExamples/AlertViewTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /iPhoneExamples/MyExamples/AlertViewTest/build/Debug-iphonesimulator/AlertViewTest.app0#
+
